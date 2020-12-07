@@ -297,4 +297,20 @@ public interface PacmanSdkConstants {
 	String CLOUD_INSIGHT_USER = "CLOUD_INSIGHT_USER";
 	
 	String CLOUD_INSIGHT_PASSWORD = "CLOUD_INSIGHT_PASSWORD";
+	
+	//rdb rule
+	String SERVER_NAME = "serverName";
+	String COMMA = ",";
+	String PROP_NAME_ALLOWED_CIDRS = "public.accessibility.allowed.cidrs";
+	String ES_SOURCE = "_source";
+	String HITS = "hits";
+	String ES_URI = "ES_URI";
+	String BACK_SLASH = "/";
+	String ASTERISK = "*";
+	String HYPHEN = "-";
+	String TENANT = "tenant";
+	String SUBSCRIPTION = "subscription";
+	String SUBSCRIPTION_NAME = "subscriptionName";
+	String RESOURCE_GROUP_NAME = "resourceGroupName";
+
 }
