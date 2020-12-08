@@ -70,9 +70,5 @@ public class RDBPublicAcessRule extends FirewallRulePublicAccess {
 		return PUBLICLY_ACCESSIBLE_RESOURCE_FOUND;
 	}
 	
-public static void main (String args[]) {
-		
-		new RuleExecutor().main(args);
-}
 	
 }
